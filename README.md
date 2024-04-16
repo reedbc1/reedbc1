@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Pursuing Masters of Data Analytics from Northwest MO State
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
