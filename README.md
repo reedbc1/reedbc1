@@ -1,5 +1,8 @@
 ### Hi there 👋
 - Pursuing Masters of Data Analytics from Northwest MO State
+Projects
+- [Farkle Simulation](https://github.com/reedbc1/Farkle)
+- [Shiny Python app](https://github.com/reedbc1/cintel-06-custom)
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
