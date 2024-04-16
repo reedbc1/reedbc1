@@ -1,9 +1,7 @@
-### Hello! I'm Brendan.
-- Pursuing Masters of Data Analytics - Northwest MO State
-- Bachelors of Data Science - Maryville University
+### Hello!
 
 Projects
-- [Farkle Simulation](https://github.com/reedbc1/Farkle)
+- [Farkle - dice game simulation](https://github.com/reedbc1/Farkle)
 - [Shiny Python app](https://github.com/reedbc1/cintel-06-custom)
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
