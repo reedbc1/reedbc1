@@ -1,5 +1,7 @@
-### Hi there 👋
-- Pursuing Masters of Data Analytics from Northwest MO State
+### Hello! I'm Brendan.
+- Pursuing Masters of Data Analytics - Northwest MO State
+- Bachelors of Data Science - Maryville University
+
 Projects
 - [Farkle Simulation](https://github.com/reedbc1/Farkle)
 - [Shiny Python app](https://github.com/reedbc1/cintel-06-custom)
