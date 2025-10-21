@@ -1,7 +1,8 @@
 ### Hello!
 
 Projects
-- [Farkle - dice game simulation](https://github.com/reedbc1/Farkle)
+- [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
+- [AI Reader's Advisory (work in progress)](https://github.com/reedbc1/AIReaderAdvisory)
 - [Nvidia Stock Prices - Shiny Python dashboard](https://github.com/reedbc1/cintel-06-custom)
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
