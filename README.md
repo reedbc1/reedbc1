@@ -1,14 +1,14 @@
 ## Introduction
-<b>Name:</b> Brendan
-<b>Focus:</b> Back-end software developer and Data Analytics student.
-<b>Passion:</b> Improving workflows through software and analysis.
+<b>Name:</b> Brendan  
+<b>Focus:</b> Back-end software developer and Data Analytics student.  
+<b>Passion:</b> Improving workflows through software and data analysis.  
 
 ## Projects
   
 My programs:  
 - [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
 - [AI Reader's Advisory (prototype)](https://github.com/reedbc1/AIReaderAdvisory)
-- [Meeting Notes Assistant](https://github.com/reedbc1/boardDocs)
+- [Meeting Notes AI Assistant](https://github.com/reedbc1/boardDocs)
 - [Upload Helper App for Android](https://github.com/reedbc1/printmobile)
 
 My analysis:  
@@ -16,8 +16,8 @@ My analysis:
 
 Coming up/work in progress:
 - [Library Item Database](https://github.com/reedbc1/fetchitems)
-- [eCommerce Analysis in SQL]
-- [Interactive Salary Dashboard with St. Louis County open data]
+- eCommerce Analysis in SQL
+- Interactive Salary Dashboard with St. Louis County open data
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
