@@ -1,9 +1,19 @@
-### Hello!
-
-Projects
+### Hi! I'm Brendan
+I'm a software-focused Data Analytics Master's student who is passionate about using tech to improve workflows.  
+  
+My programs:  
 - [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
-- [AI Reader's Advisory (work in progress)](https://github.com/reedbc1/AIReaderAdvisory)
-- [Nvidia Stock Prices - Shiny Python dashboard](https://github.com/reedbc1/cintel-06-custom)
+- [AI Reader's Advisory (prototype)](https://github.com/reedbc1/AIReaderAdvisory)
+- [Meeting Notes Assistant](https://github.com/reedbc1/boardDocs)
+- [Upload Helper App for Android](https://github.com/reedbc1/printmobile)
+
+My analysis:  
+- [Diaper bank analysis for inventory](https://github.com/reedbc1/Diapers/blob/main/diapers.ipynb)
+
+Coming up/work in progress:
+- [Library Item Database](https://github.com/reedbc1/fetchitems)
+- [eCommerce Analysis in SQL]
+- [Interactive Salary Dashboard with St. Louis County open data]
 <!--
 **reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
