@@ -1,5 +1,9 @@
-### Hi! I'm Brendan
-I'm a software-focused Data Analytics Master's student who is passionate about using tech to improve workflows.  
+## Introduction
+<b>Name:</b> Brendan
+<b>Focus:</b> Back-end software developer and Data Analytics student.
+<b>Passion:</b> Improving workflows through software and analysis.
+
+## Projects
   
 My programs:  
 - [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
