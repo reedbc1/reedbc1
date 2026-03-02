@@ -1,35 +1,31 @@
-## Introduction
-<b>Hi! I'm Brendan.</b> I strive to improve workflows through software and analytics.
+## 👋 Hi, I’m Brendan
+I’m a <b>back-end–focused software engineer</b> with a strong interest in <b>analytics and data-driven decision-making</b>. I enjoy building practical tools that improve workflows, especially in real-world environments like libraries and public services. 
   
-## Areas of focus:
-- Back-end software development with Python
-- Pursuing masters in data analytics at Northwest Missouri State University
+## Areas of Focus
+- <b>Back-end development</b> with Python (APIs, data processing, automation)
+- <b>Analytics & data exploration</b> (SQL, Python, notebooks, dashboards)
+- Designing software that supports <b>non-technical users</b>
+- Currently pursuing a <b>Master’s in Data Analytics</b>
 
-## Project Showcase
-Software:  
-- [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
-- [AI Reader's Advisory (prototype)](https://github.com/reedbc1/AIReaderAdvisory)
-- [Meeting Notes AI Assistant](https://github.com/reedbc1/boardDocs)
-- [Upload Helper App for Android](https://github.com/reedbc1/mobile_print)
+## Selected Projects
+### Software & Systems
+- <b>AddressLookup</b> – Internal helper tool for library staff to streamline patron registration  
+  https://github.com/reedbc1/RegistrationFinder
+- <b>AI Reader’s Advisory (Prototype)</b> – NLP-based tool to recommend books using descriptions and subject data  
+  https://github.com/reedbc1/AIReaderAdvisory
+- <b>Meeting Notes AI Assistant</b> – Extracts and summarizes structured information from board documents  
+  https://github.com/reedbc1/boardDocs
+- <b>Android Upload Helper App</b> – Mobile app to simplify document uploads for public library printing  
+  https://github.com/reedbc1/mobile_print
 
-Analysis:  
-- [Diaper bank analysis for inventory](https://github.com/reedbc1/Diapers/blob/main/diapers.ipynb)
+### Data & Analysis
+- <b>Diaper Bank Inventory Analysis</b> – Exploratory analysis to support inventory planning and distribution
+  https://github.com/reedbc1/Diapers/blob/main/diapers.ipynb
 
-Coming up/work in progress:
-- [Library Item Database](https://github.com/reedbc1/fetchitems)
-- eCommerce Analysis in SQL
-- Interactive Salary Dashboard with St. Louis County open data
-<!--
-**reedbc1/reedbc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### In Progress / Upcoming
+- <b>Library Item Database</b> – API-driven system for managing and querying item metadata
+- <b>E-commerce Analysis (SQL)</b> – Sales, trends, and customer behavior analysis
+- <b>Interactive Salary Dashboard</b> – Visualization using St. Louis County open data
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Looking For
+Opportunities focused on <b>back-end engineering, data, or analytics</b>, where I can build systems that are reliable, practical, and useful to real people.
