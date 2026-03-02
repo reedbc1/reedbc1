@@ -4,13 +4,13 @@
 <b>Passion:</b> Improving workflows through software and data analysis.  
 ## Projects
   
-My programs:  
+Software:  
 - [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
 - [AI Reader's Advisory (prototype)](https://github.com/reedbc1/AIReaderAdvisory)
 - [Meeting Notes AI Assistant](https://github.com/reedbc1/boardDocs)
 - [Upload Helper App for Android](https://github.com/reedbc1/mobile_print)
 
-My analysis:  
+Analysis:  
 - [Diaper bank analysis for inventory](https://github.com/reedbc1/Diapers/blob/main/diapers.ipynb)
 
 Coming up/work in progress:
