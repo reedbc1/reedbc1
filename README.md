@@ -7,6 +7,33 @@ I’m a <b>back-end–focused software engineer</b> with a strong interest in <b
 - Designing software that supports <b>non-technical users</b>
 - Currently pursuing a <b>Master’s in Data Analytics</b>
 
+## Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Back-End & Data**
+- REST APIs
+- Data modeling & relational databases
+- Pandas, NumPy
+- Jupyter Notebooks
+- Google Apps Script
+
+**Analytics & Visualization**
+- Exploratory data analysis (EDA)
+- Data cleaning & transformation
+- Dashboarding (Tableau, Python-based visualizations)
+
+**AI / NLP (Applied)**
+- Prompt-driven prototyping
+- Text analysis & summarization
+- Embedding-based similarity (early-stage)
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux-based development environments
+
 ## Selected Projects
 ### Software & Systems
 - <b>AddressLookup</b> – Internal helper tool for library staff to streamline patron registration  
