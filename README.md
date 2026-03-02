@@ -1,9 +1,11 @@
 ## Introduction
-<b>Name:</b> Brendan  
-<b>Focus:</b> Back-end software developer and Data Analytics student.  
-<b>Passion:</b> Improving workflows through software and data analysis.  
-## Projects
+<b>Hi! I'm Brendan.</b> I strive to improve workflows through software and analytics.
   
+## Areas of focus:
+- Back-end software development with Python
+- Pursuing masters in data analytics at Northwest Missouri State University
+
+## Project Showcase
 Software:  
 - [AddressLookup - Helper tool for library employees](https://github.com/reedbc1/RegistrationFinder)
 - [AI Reader's Advisory (prototype)](https://github.com/reedbc1/AIReaderAdvisory)
