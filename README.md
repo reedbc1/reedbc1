@@ -2,12 +2,6 @@
 <b>Name:</b> Brendan  
 <b>Focus:</b> Back-end software developer and Data Analytics student.  
 <b>Passion:</b> Improving workflows through software and data analysis.  
-
-## Proficiencies
-- Python
-- JavaScript
-- Google Apps Script
-
 ## Projects
   
 My programs:  
