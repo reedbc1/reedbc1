@@ -48,9 +48,12 @@ I’m a <b>back-end–focused software engineer</b> with a strong interest in <b
 ### Data & Analysis
 - <b>Diaper Bank Inventory Analysis</b> – Exploratory analysis to support inventory planning and distribution
   https://github.com/reedbc1/Diapers/blob/main/diapers.ipynb
+- <b>Missouri Public Libraries Dashboard</b> - Tableau dashboard for Missouri public library data from IMLS
+  https://github.com/reedbc1/PublicLibraryDashboard/blob/main/brendan_reed_final_report.pdf
 
 ### In Progress / Upcoming
 - <b>Library Item Database</b> – API-driven system for managing and querying item metadata
+  https://github.com/reedbc1/fetchitems
 - <b>E-commerce Analysis (SQL)</b> – Sales, trends, and customer behavior analysis
 - <b>Interactive Salary Dashboard</b> – Visualization using St. Louis County open data
 
