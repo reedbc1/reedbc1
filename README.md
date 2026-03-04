@@ -52,7 +52,7 @@ I’m a <b>back-end–focused software engineer</b> with a strong interest in <b
   https://github.com/reedbc1/PublicLibraryDashboard/blob/main/brendan_reed_final_report.pdf
 
 ### In Progress / Upcoming
-- <b>Library Item Database</b> – API-driven system for managing and querying item metadata
+- <b>Library Item Database</b> – API-driven system for managing and querying item metadata  
   https://github.com/reedbc1/fetchitems
 - <b>E-commerce Analysis (SQL)</b> – Sales, trends, and customer behavior analysis
 - <b>Interactive Salary Dashboard</b> – Visualization using St. Louis County open data
