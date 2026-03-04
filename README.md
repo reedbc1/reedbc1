@@ -58,4 +58,4 @@ I’m a <b>back-end–focused software engineer</b> with a strong interest in <b
 - <b>Interactive Salary Dashboard</b> – Visualization using St. Louis County open data
 
 ## What I’m Looking For
-Opportunities focused on <b>back-end engineering, data, or analytics</b>, where I can build systems that are reliable, practical, and useful to real people.
+Opportunities focused on <b>back-end engineering, data, or analytics</b>, where I can build systems that are reliable, practical, and useful.
