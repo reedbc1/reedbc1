@@ -28,7 +28,7 @@ I’m a <b>back-end–focused software engineer</b> with a strong interest in <b
 **AI / NLP (Applied)**
 - Prompt-driven prototyping
 - Text analysis & summarization
-- Embedding-based similarity (early-stage)
+- Embedding-based similarity
 
 **Tools & Platforms**
 - Git & GitHub
