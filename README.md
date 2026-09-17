@@ -1,5 +1,3 @@
-Yes—all seven links from your original version are included below. You can copy the entire block directly into your GitHub profile `README.md`.
-
 ## 👋 Hi, I’m Brendan
 
 I’m a software developer who builds practical web applications, data tools, and automations. Many of my projects begin with a real workflow problem—particularly in libraries and public services—and explore how software can make that process faster, clearer, and easier for non-technical users.
